@@ -17,5 +17,11 @@ namespace GitExample5.Controllers
         {
             return View();
         }
+
+
+        public IActionResult Page3()
+        {
+            return View();
+        }
     }
 }
